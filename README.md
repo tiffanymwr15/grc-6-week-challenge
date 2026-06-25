@@ -23,10 +23,10 @@ Week 6  Ship      →  Portfolio piece, end-to-end demo
 |------|--------|-------|--------|
 | 1 | [`week-1/`](week-1/) | Your first compliant resource (Terraform + evidence) | Complete |
 | 2 | [`week-2/`](week-2/) | Make the rules executable (Rego + Conftest) | Complete |
-| 3 | [`week-3/`](week-3/) | Run the gate in CI (GitHub Actions) | Not started |
-| 4 | [`week-4/`](week-4/) | Evidence as an artifact (capture, sign, store) | Not started |
-| 5 | [`week-5/`](week-5/) | Map controls in OSCAL | Not started |
-| 6 | [`week-6/`](week-6/) | Portfolio capstone (full story, public repo) | Not started |
+| 3 | [`week-3/`](week-3/) | 
+| 4 | [`week-4/`](week-4/) | 
+| 5 | [`week-5/`](week-5/) | 
+| 6 | [`week-6/`](week-6/) | 
 
 ## Controls (Weeks 1–2 foundation)
 
@@ -64,9 +64,9 @@ conftest test --policy policies --namespace compliance.cm6_aws  ../week-1/plan.j
 ├── .gitignore
 ├── week-1/             ← Terraform + evidence/plan.json
 ├── week-2/             ← policies/ + Conftest
-├── week-3/             ← CI workflow (coming)
-├── week-4/             ← evidence pipeline (coming)
-├── week-5/             ← OSCAL (coming)
+├── week-3/             ←  (coming)
+├── week-4/             ← (coming)
+├── week-5/             ← (coming)
 └── week-6/             ← portfolio capstone (coming)
 ```
 
