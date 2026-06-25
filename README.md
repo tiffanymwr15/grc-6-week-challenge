@@ -11,10 +11,10 @@ Each week adds one brick. Later weeks consume what earlier weeks produce.
 ```
 Week 1  Build     →  Compliant Terraform + plan.json evidence
 Week 2  Gate      →  Rego policies judge the plan (Conftest)
-Week 3  Automate  →  CI runs the gate on every change
-Week 4  Sign      →  Evidence vault, integrity, retention
-Week 5  Map       →  OSCAL component definition + control links
-Week 6  Ship      →  Portfolio piece, end-to-end demo
+Week 3  →  coming soon
+Week 4  →  coming soon
+Week 5  →  coming soon
+Week 6  →  coming soon 
 ```
 
 ## Weeks
