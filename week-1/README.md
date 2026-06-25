@@ -99,6 +99,5 @@ terraform destroy -var="project_name=grc-challenge" -var="environment=dev"
 | `main.tf` | Provider, buckets, all five controls |
 | `variables.tf` | `project_name`, `environment`, `region` |
 | `outputs.tf` | Bucket names/ARNs + `encryption_algorithm` attestation |
-| `verify.sh` | Live SC-28, CM-6, AC-3 checks after apply |
 | `evidence/plan.json` | Machine-readable compliance proof |
 | `plan.json` | Copy used by Week 2 Conftest |
